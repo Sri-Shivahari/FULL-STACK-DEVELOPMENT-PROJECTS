@@ -1,2 +1,3 @@
-# FULL-STACK-DEVELOPMENT-PROJECTS
-Has several website development based projects
+# Random Password Generator
+A basic website using HTML,CSS and Javascript
+to gererate a random password
